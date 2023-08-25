@@ -1,0 +1,23 @@
+---
+title: "Projects"
+---
+
+## PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D (Oct 2020 - Sep 2024)
+- At the University of Edinburgh.
+- Supervised by Melanie Stefan, David Sterratt and Nicola Romano.
+- Funded by Medical Research Scotland.
+
+## Alan Turing Enrichment Student (Oct 2022 - Oct 2023)
+- Awarded a 9 month placement at the Alan Turing Institute head quarters in London and a community award to work on research interests as seen [here](https://www.turing.ac.uk/people/enrichment-students/susana-roman-garcia).
+
+## Data Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)
+- Co-organized and facilitated with [Ceilidh Welsh](https://www.turing.ac.uk/people/enrichment-students/ceilidh-welsh).
+- [Link to Eventbrite](https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087)
+
+## Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)
+- During my time at [OLS](https://openlifesci.org/) I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link [here](https://github.com/Susana465/OLS-6-Ethical-standards-and-reproducibility-of-computer-models-in-Neurobiology).
+
+## Workshops, Posters, Group facilitations
+- [Bias and reproducibility in a computational neurobiology PhD's journey](https://github.com/Susana465/Bias-and-Reproducibility-Poster).
+  
+- [Climate Cafes](https://www.climatepsychologyalliance.org/~cpa/events/500-climate-cafe-jan) with Climate Psychology Alliance.

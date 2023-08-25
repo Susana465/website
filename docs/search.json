@@ -9,8 +9,92 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Susana Roman Garcia",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am also an Enrichment Student at the Alan Turing Institute. I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust."
+  },
+  {
+    "objectID": "index.html#about-my-work",
+    "href": "index.html#about-my-work",
+    "title": "Susana Roman Garcia",
+    "section": "About my work",
+    "text": "About my work\nI started my PhD in order to better understand how memory works inside our brains. In order to do so, I simplify the complex mechanisms of memory and create computer models of molecular interactions that can help predict how molecules are working inside neurons.\nI think that in order to create meaningful research, it must challenge the imperialist white supermacist patriarchal culture it sits in. This is, there is a need to move away from historically white, cis-male, centered science, to a science that is much more inclusive and accessible to everyone and especially those who have been historically marginalized.\nReproducibility and bias in science are huge driving forces of how I work. Making reproducible science means a bit more time is needed at the beginning, but in the long run money, time and resources are saved by not repeating the same research over and over again. Similarly, I see no point in creating amazingly reproducible research, if this is carrying sexist, racist, ableist, speciesist or any kind of oppressive bias that continues to disproportionately affect some individuals more than others.\nAs an emotional human, I also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Susana Roman Garcia",
+    "section": "",
+    "text": "I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am also an Enrichment Student at the Alan Turing Institute. I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "At the University of Edinburgh.\nSupervised by Melanie Stefan, David Sterratt and Nicola Romano.\nFunded by Medical Research Scotland."
+  },
+  {
+    "objectID": "projects.html#phd-creating-computer-models-of-camkiinmdar-dynamics-in-3d-using-mcell-bionetgen-and-biodynamo",
+    "href": "projects.html#phd-creating-computer-models-of-camkiinmdar-dynamics-in-3d-using-mcell-bionetgen-and-biodynamo",
+    "title": "Projects",
+    "section": "",
+    "text": "Supervised by\nFunded by"
+  },
+  {
+    "objectID": "projects.html#data-hazards-ethics-and-reproducibility-hybrid-symposium-march-2023",
+    "href": "projects.html#data-hazards-ethics-and-reproducibility-hybrid-symposium-march-2023",
+    "title": "Projects",
+    "section": "Data Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)",
+    "text": "Data Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)\n\nCo-organized and facilitated with Ceilidh Welsh.\nLink to Eventbrite"
+  },
+  {
+    "objectID": "projects.html#phd-creating-computer-models-of-camkiinmdar-dynamics-in-3d",
+    "href": "projects.html#phd-creating-computer-models-of-camkiinmdar-dynamics-in-3d",
+    "title": "Projects",
+    "section": "",
+    "text": "At the University of Edinburgh.\nSupervised by Melanie Stefan, David Sterratt and Nicola Romano.\nFunded by Medical Research Scotland."
+  },
+  {
+    "objectID": "projects.html#phd-creating-computer-models-of-camkiinmdar-dynamics-in-3d-oct-2020---sep-2024",
+    "href": "projects.html#phd-creating-computer-models-of-camkiinmdar-dynamics-in-3d-oct-2020---sep-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "At the University of Edinburgh.\nSupervised by Melanie Stefan, David Sterratt and Nicola Romano.\nFunded by Medical Research Scotland."
+  },
+  {
+    "objectID": "projects.html#alan-turing-enrichment-student-oct-2022---oct-2023",
+    "href": "projects.html#alan-turing-enrichment-student-oct-2022---oct-2023",
+    "title": "Projects",
+    "section": "Alan Turing Enrichment Student (Oct 2022 - Oct 2023)",
+    "text": "Alan Turing Enrichment Student (Oct 2022 - Oct 2023)\n\nAwarded a 9 month placement at the Alan Turing Institute head quarters in London and a community award to work on research interests as seen here."
+  },
+  {
+    "objectID": "projects.html#open-life-sciences---cohort-6-sep-2022---jan-2023httpsopenlifesci.org",
+    "href": "projects.html#open-life-sciences---cohort-6-sep-2022---jan-2023httpsopenlifesci.org",
+    "title": "Projects",
+    "section": "Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)](https://openlifesci.org/):",
+    "text": "Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)](https://openlifesci.org/):\nDuring my time at OLS I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link here..\n\nBias and reproducibility in a computational neurobiology PhD’s journey\nClimate Cafes with Climate Psychology Alliance"
+  },
+  {
+    "objectID": "projects.html#open-life-sciences---cohort-6-sep-2022---jan-2023",
+    "href": "projects.html#open-life-sciences---cohort-6-sep-2022---jan-2023",
+    "title": "Projects",
+    "section": "Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)",
+    "text": "Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)\n\nDuring my time at OLS I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link here."
+  },
+  {
+    "objectID": "projects.html#workshops-posters-group-facilitations",
+    "href": "projects.html#workshops-posters-group-facilitations",
+    "title": "Projects",
+    "section": "Workshops, Posters, Group facilitations",
+    "text": "Workshops, Posters, Group facilitations\n\nBias and reproducibility in a computational neurobiology PhD’s journey.\nClimate Cafes with Climate Psychology Alliance."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Selected Talks",
+    "section": "",
+    "text": "Open Life Sciences Graduation talk, recorded live session.\nData Hazards Workshop given at COMBINE 2022\nThinking about Ethics in (Computer) Science. You can watch the recording here, and access slides here."
   }
 ]

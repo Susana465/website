@@ -1,19 +1,41 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Susana Roman Garcia"
+  site-url: "https://susana465.github.io/website/" 
+  repo-url: https://github.com/Susana465/website
 
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+
+  sidebar:
+    logo: "images/SRG-prof.jpeg"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/Susana465/website
+        text: "GitHub repository"
+    
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: About me
+      - projects.qmd
+      - talks.qmd
+      - resources.qmd
+ 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    code-copy: true
+    code-overflow: wrap
 
 
 

@@ -1,0 +1,11 @@
+---
+title: "Selected Talks"
+---
+
+- [Open Life Sciences Graduation talk, recorded live session](https://www.youtube.com/watch?v=3qb28JDFhGw).
+
+- [Data Hazards Workshop](https://github.com/Susana465/Data_Hazards_workshop_COMBINE) given at [COMBINE 2022](https://combine-org.github.io/events/)
+
+- Thinking about Ethics in (Computer) Science. You can watch the recording [here](https://youtu.be/8wAfcTM_ypA), and access slides [here](https://zenodo.org/record/6973796#.YvDqOHbMKUk).
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/8wAfcTM_ypA" title="Thinking about Ethics in (Computer) Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

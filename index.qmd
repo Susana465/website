@@ -1,7 +1,17 @@
 ---
-title: "website"
+title: "Susana Roman Garcia"
 ---
 
-This is a Quarto website.
+## About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am also an Enrichment Student at the Alan Turing Institute. I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust.
+
+## About my work
+
+I started my PhD in order to better understand how memory works inside our brains. In order to do so, I simplify the complex mechanisms of memory and create computer models of molecular interactions that can help predict how molecules are working inside neurons.
+
+I think that in order to create meaningful research, it must challenge the imperialist white supermacist patriarchal culture it sits in. This is, there is a need to move away from historically white, cis-male, centered science, to a science that is much more inclusive and accessible to everyone and especially those who have been historically marginalized.
+
+Reproducibility and bias in science are huge driving forces of how I work. Making reproducible science means a bit more time is needed at the beginning, but in the long run money, time and resources are saved by not repeating the same research over and over again. Similarly, I see no point in creating amazingly reproducible research, if this is carrying sexist, racist, ableist, speciesist or any kind of oppressive bias that continues to disproportionately affect some individuals more than others.
+
+As an emotional human, I also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be.
