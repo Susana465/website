@@ -8,7 +8,9 @@
 
 #### Alan Turing Enrichment Student (Oct 2022 - Jun 2023)
 - Awarded a 9 month placement at the Alan Turing Institute head quarters in London (£3000).
-- During my time here 
+- Attended AI Ethics and Governance courses
+- Participated in Python programming and reproducibility course
+- Collaborated with The Turing Way, The Turing Commons and more stakeholders to discuss ethics in neuroinformatics.
 - Was the Community Champion for the cohort, which entailed organising social events and bringing people in different areas together.
 
 #### What Data Hazards apply to my PhD? (March 2023)
