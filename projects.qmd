@@ -1,23 +1,33 @@
----
-title: "Projects"
----
 
-## PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D (Oct 2020 - Sep 2024)
+# Projects
+
+#### PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D (Oct 2020 - Sep 2024) {- #sec-phd}
 - At the University of Edinburgh.
 - Supervised by Melanie Stefan, David Sterratt and Nicola Romano.
-- Funded by Medical Research Scotland.
+- Funded by Medical Research Scotland and CERN openlab.
 
-## Alan Turing Enrichment Student (Oct 2022 - Oct 2023)
-- Awarded a 9 month placement at the Alan Turing Institute head quarters in London and a community award to work on research interests as seen [here](https://www.turing.ac.uk/people/enrichment-students/susana-roman-garcia).
+#### Alan Turing Enrichment Student (Oct 2022 - Jun 2023)
+- Awarded a 9 month placement at the Alan Turing Institute head quarters in London (£3000).
+- During my time here 
+- Was the Community Champion for the cohort, which entailed organising social events and bringing people in different areas together.
 
-## Data Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)
+#### What Data Hazards apply to my PhD? (March 2023)
+-  I volunteered and presented a poster at AI UK 2023.
+-  I created a summary of the work I do for my PhD to think about what Data Hazards apply to it and for people to have discussions with me about it.
+- More information on the [GitHub repo where the project lives](https://github.com/Susana465/DH_Project_CaseStudy). 
+
+#### Data Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)
 - Co-organized and facilitated with [Ceilidh Welsh](https://www.turing.ac.uk/people/enrichment-students/ceilidh-welsh).
+- The theme of this event was "aligning our values with our research: thinking about how to embed ethics and reproducibility into our work".
 - [Link to Eventbrite](https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087)
+- [Documentation on talks materials](https://github.com/Susana465/der_symposium_20230310) is still being updated in the GitHub repository.
 
-## Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)
+#### Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)
 - During my time at [OLS](https://openlifesci.org/) I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link [here](https://github.com/Susana465/OLS-6-Ethical-standards-and-reproducibility-of-computer-models-in-Neurobiology).
 
-## Workshops, Posters, Group facilitations
+#### More workshops, posters, group facilitations
 - [Bias and reproducibility in a computational neurobiology PhD's journey](https://github.com/Susana465/Bias-and-Reproducibility-Poster).
   
 - [Climate Cafes](https://www.climatepsychologyalliance.org/~cpa/events/500-climate-cafe-jan) with Climate Psychology Alliance.
+
+- [Data Hazards workshops](https://github.com/Susana465/Data_Hazards_workshops). As part of my on-going work with the Data Hazards, I have organised and led multiple iterations of Data Hazard workshops.

@@ -4,28 +4,40 @@
     "href": "index.html",
     "title": "Susana Roman Garcia",
     "section": "",
-    "text": "I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am also an Enrichment Student at the Alan Turing Institute. I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust."
+    "text": "I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am interested in learning about Open Science, Ethics, Computer Science, and Neuroscience, and how to mix them all-together. Outside of work and academia you can find me growing vegetables, petting cats, or at the pub next door with a good book.\nI also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be.",
+    "crumbs": [
+      "About me"
+    ]
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Susana Roman Garcia",
     "section": "",
-    "text": "I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am also an Enrichment Student at the Alan Turing Institute. I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust."
+    "text": "I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am interested in learning about Open Science, Ethics, Computer Science, and Neuroscience, and how to mix them all-together. Outside of work and academia you can find me growing vegetables, petting cats, or at the pub next door with a good book.\nI also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be.",
+    "crumbs": [
+      "About me"
+    ]
   },
   {
     "objectID": "index.html#about-my-work",
     "href": "index.html#about-my-work",
     "title": "Susana Roman Garcia",
     "section": "About my work",
-    "text": "About my work\nI started my PhD in order to better understand how memory works inside our brains. In order to do so, I simplify the complex mechanisms of memory and create computer models of molecular interactions that can help predict how molecules are working inside neurons.\nI think that in order to create meaningful research, it must challenge the imperialist white supermacist patriarchal culture it sits in. This is, there is a need to move away from historically white, cis-male, centered science, to a science that is much more inclusive and accessible to everyone and especially those who have been historically marginalized.\nReproducibility and bias in science are huge driving forces of how I work. Making reproducible science means a bit more time is needed at the beginning, but in the long run money, time and resources are saved by not repeating the same research over and over again. Similarly, I see no point in creating amazingly reproducible research, if this is carrying sexist, racist, ableist, speciesist or any kind of oppressive bias that continues to disproportionately affect some individuals more than others.\nAs an emotional human, I also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be."
+    "text": "About my work\nI am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am interested in learning about Open Science, Ethics, Computer Science, and Neuroscience, and how to mix them all-together.\nI started my PhD in order to better understand how memory works inside our brains. In order to do so, I look at the molecular mechanisms of memory and create computer models of their interactions that can help predict how molecules are working inside neurons.\nI think that in order to create meaningful research, it must challenge the imperialist white supermacist patriarchal culture it sits in. I believe is a need to move away from historically white, cis-male, centered science, to a science that is much more inclusive and accessible to everyone and especially those who have been historically marginalized.\nReproducibility and bias in science are huge driving forces of how I work. Making reproducible science means a bit more time is needed at the beginning, but in the long run money, time and resources are saved by not repeating the same research over and over again. Similarly, I see no point in creating amazingly reproducible research, if this is carrying sexist, racist, ableist, speciesist or any kind of oppressive bias that continues to disproportionately affect some individuals more than others.\nAs an emotional human, I also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be.\n\nI am currently…\n\nFinishing my PhD :muscle:\nLooking for jobs :eyes:\nGrowing fruit and vegetables in the garden :strawberry:",
+    "crumbs": [
+      "About me"
+    ]
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "At the University of Edinburgh.\nSupervised by Melanie Stefan, David Sterratt and Nicola Romano.\nFunded by Medical Research Scotland."
+    "text": "Projects\n\nPhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D (Oct 2020 - Sep 2024)\n\nAt the University of Edinburgh.\nSupervised by Melanie Stefan, David Sterratt and Nicola Romano.\nFunded by Medical Research Scotland and CERN openlab.\n\n\n\nAlan Turing Enrichment Student (Oct 2022 - Jun 2023)\n\nAwarded a 9 month placement at the Alan Turing Institute head quarters in London (£3000).\nDuring my time here\nWas the Community Champion for the cohort, which entailed organising social events and bringing people in different areas together.\n\n\n\nWhat Data Hazards apply to my PhD? (March 2023)\n\nI volunteered and presented a poster at AI UK 2023.\nI created a summary of the work I do for my PhD to think about what Data Hazards apply to it and for people to have discussions with me about it.\nMore information on the GitHub repo where the project lives.\n\n\n\nData Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)\n\nCo-organized and facilitated with Ceilidh Welsh.\nThe theme of this event was “aligning our values with our research: thinking about how to embed ethics and reproducibility into our work”.\nLink to Eventbrite\nDocumentation on talks materials is still being updated in the GitHub repository.\n\n\n\nOpen Life Sciences - cohort 6 (Sep 2022 - Jan 2023)\n\nDuring my time at OLS I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link here.\n\n\n\nMore workshops, posters, group facilitations\n\nBias and reproducibility in a computational neurobiology PhD’s journey.\nClimate Cafes with Climate Psychology Alliance.\nData Hazards workshops. As part of my on-going work with the Data Hazards, I have organised and led multiple iterations of Data Hazard workshops.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "projects.html#phd-creating-computer-models-of-camkiinmdar-dynamics-in-3d-oct-2020---sep-2024",
@@ -38,35 +50,107 @@
     "objectID": "projects.html#alan-turing-enrichment-student-oct-2022---oct-2023",
     "href": "projects.html#alan-turing-enrichment-student-oct-2022---oct-2023",
     "title": "Projects",
-    "section": "Alan Turing Enrichment Student (Oct 2022 - Oct 2023)",
-    "text": "Alan Turing Enrichment Student (Oct 2022 - Oct 2023)\n\nAwarded a 9 month placement at the Alan Turing Institute head quarters in London and a community award to work on research interests as seen here."
+    "section": "",
+    "text": "Awarded a 9 month placement at the Alan Turing Institute head quarters in London and a community award to work on research interests as seen here.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "projects.html#data-hazards-ethics-and-reproducibility-hybrid-symposium-march-2023",
     "href": "projects.html#data-hazards-ethics-and-reproducibility-hybrid-symposium-march-2023",
     "title": "Projects",
-    "section": "Data Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)",
-    "text": "Data Hazards, Ethics and Reproducibility Hybrid Symposium (March 2023)\n\nCo-organized and facilitated with Ceilidh Welsh.\nLink to Eventbrite"
+    "section": "",
+    "text": "Co-organized and facilitated with Ceilidh Welsh.\nThe theme of this event was “aligning our values with our research: thinking about how to embed ethics and reproducibility into our work”.\nLink to Eventbrite\nDocumentation on talks materials is still being updated in the GitHub repository.\n\n\n\n\nDuring my time at OLS I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link here.\n\n\n\n\n\nBias and reproducibility in a computational neurobiology PhD’s journey.\nClimate Cafes with Climate Psychology Alliance.\nData Hazards workshops. As part of my on-going work with the Data Hazards, I have organised and led multiple iterations of Data Hazard workshops.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "projects.html#open-life-sciences---cohort-6-sep-2022---jan-2023",
     "href": "projects.html#open-life-sciences---cohort-6-sep-2022---jan-2023",
     "title": "Projects",
-    "section": "Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)",
-    "text": "Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)\n\nDuring my time at OLS I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link here."
+    "section": "",
+    "text": "During my time at OLS I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link here.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "projects.html#workshops-posters-group-facilitations",
     "href": "projects.html#workshops-posters-group-facilitations",
     "title": "Projects",
-    "section": "Workshops, Posters, Group facilitations",
-    "text": "Workshops, Posters, Group facilitations\n\nBias and reproducibility in a computational neurobiology PhD’s journey.\nClimate Cafes with Climate Psychology Alliance."
+    "section": "",
+    "text": "Bias and reproducibility in a computational neurobiology PhD’s journey.\nClimate Cafes with Climate Psychology Alliance.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Selected Talks",
+    "title": "Talks and Publications",
     "section": "",
-    "text": "Open Life Sciences Graduation talk, recorded live session.\nData Hazards Workshop given at COMBINE 2022\nThinking about Ethics in (Computer) Science. You can watch the recording here, and access slides here."
+    "text": "Data Hazards as an ethical toolkit for neuroscience, 2024.\nAbstract: The Data Hazards framework (Zelenkaet al., 2024) is intended to encouragethinking about the ethical implications of data science projects. It takes the formof community-designed data hazard labels, similar to warning labels on chemicals,that can encourage reflection and discussion on what ethical risks are associatedwith a project and how they can be mitigated. In this article, we explain howthe Data Hazards framework can apply to neuroscience. We demonstrate howthe hazards can be applied to one of our own projects, on the computationalmodelling of postsynaptic mechanisms.\n\nAvailable as a preprint.\n\n\n\nEthical Standards and Reproducibility of computer models in Neurobiology, Open Life Sciences, 2023.\n\nYou can watch the recorded live session.\n\n\n\nThinking about Ethics in (Computer) Science, Edinburgh College of Medicine and Veterinary Medicine Good Practice Showcase, 2022.\n\nGiven with Melanie Stefan and David Sterratt.\nYou can watch the recording here, and access slides here.",
+    "crumbs": [
+      "Talks and Publications"
+    ]
+  },
+  {
+    "objectID": "projects.html#sec-phd",
+    "href": "projects.html#sec-phd",
+    "title": "Projects",
+    "section": "",
+    "text": "At the University of Edinburgh.\nSupervised by Melanie Stefan, David Sterratt and Nicola Romano.\nFunded by Medical Research Scotland.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#alan-turing-enrichment-student-oct-2022---jun-2023",
+    "href": "projects.html#alan-turing-enrichment-student-oct-2022---jun-2023",
+    "title": "Projects",
+    "section": "",
+    "text": "Awarded a 9 month placement at the Alan Turing Institute head quarters in London (£3000).\nWas the Community Champion for the cohort, which entailed organising social events and bringing people in different areas together.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#what-data-hazards-apply-to-my-phd-march-2023",
+    "href": "projects.html#what-data-hazards-apply-to-my-phd-march-2023",
+    "title": "Projects",
+    "section": "",
+    "text": "I volunteered and presented a poster at AI UK 2023.\nI created a summary of the work I do for my PhD to think about what Data Hazards apply to it and for people to have discussions with me about it.\nMore information on the GitHub repo where the project lives.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#more-workshops-posters-group-facilitations",
+    "href": "projects.html#more-workshops-posters-group-facilitations",
+    "title": "Projects",
+    "section": "",
+    "text": "Bias and reproducibility in a computational neurobiology PhD’s journey.\nClimate Cafes with Climate Psychology Alliance.\nData Hazards workshops. As part of my on-going work with the Data Hazards, I have organised and led multiple iterations of Data Hazard workshops.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This is somewhere I hope to deposit resources that either I have made to help others, or resources that I find along the way that I wish to share with the world. It is still building up, so there is no real order to this section as of yet; just things I find useful!\n\nThese are some instructions I made for myself to link Zotero and my .bib files\nIt’s very handy to be able to have the bibliography file update automatically through Zotero instead of manually copying and pasting each reference I add to my project.\n\nThis link takes you to download a pdf file with instructions Managing references with Zotero \n\n\nWatch out for the PDF bomb here!",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "This is somewhere I hope to deposit resources that either I have made to help others, or resources that I find along the way that I wish to share with the world. It is still building up, so there is no real order to this section as of yet; just things I find useful!\n\n\n\nzotero\n\n\n\n\n\n\n\n\n\n  \n     Download current CV"
   }
 ]

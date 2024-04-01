@@ -1,11 +1,19 @@
 ---
-title: "Selected Talks"
+title: "Talks and Publications"
 ---
+#### **Data Hazards as an ethical toolkit for neuroscience, 2024.**
+_Abstract: The Data Hazards framework (Zelenkaet al., 2024) is intended to encouragethinking about the ethical implications of data science projects. It takes the formof community-designed data hazard labels, similar to warning labels on chemicals,that can encourage reflection and discussion on what ethical risks are associatedwith a project and how they can be mitigated. In this article, we explain howthe Data Hazards framework can apply to neuroscience. We demonstrate howthe hazards can be applied to one of our own projects, on the computationalmodelling of postsynaptic mechanisms._
 
-- [Open Life Sciences Graduation talk, recorded live session](https://www.youtube.com/watch?v=3qb28JDFhGw).
+- Available as a [preprint](https://osf.io/preprints/osf/yn2j9).
 
-- [Data Hazards Workshop](https://github.com/Susana465/Data_Hazards_workshop_COMBINE) given at [COMBINE 2022](https://combine-org.github.io/events/)
+#### **Ethical Standards and Reproducibility of computer models in Neurobiology, Open Life Sciences, 2023.**
 
-- Thinking about Ethics in (Computer) Science. You can watch the recording [here](https://youtu.be/8wAfcTM_ypA), and access slides [here](https://zenodo.org/record/6973796#.YvDqOHbMKUk).
+- You can watch the [recorded live session](https://www.youtube.com/watch?v=3qb28JDFhGw).
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/8wAfcTM_ypA" title="Thinking about Ethics in (Computer) Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### **Thinking about Ethics in (Computer) Science, Edinburgh College of Medicine and Veterinary Medicine Good Practice Showcase, 2022.**
+
+- Given with Melanie Stefan and David Sterratt.
+- You can watch the recording [here](https://youtu.be/8wAfcTM_ypA), and access slides [here](https://zenodo.org/record/6973796#.YvDqOHbMKUk).
+
+<iframe width="550" height="380" src="https://www.youtube.com/embed/8wAfcTM_ypA" title="Thinking about Ethics in (Computer) Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
