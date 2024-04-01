@@ -9,5 +9,3 @@ This is somewhere I hope to deposit resources that either I have made to help ot
 It's very handy to be able to have the bibliography file update automatically through Zotero instead of manually copying and pasting each reference I add to my project.
 
 - This link takes you to download a pdf file with instructions <a href="resources\managing_references.pdf">Managing references with Zotero </a>
-
-<p>Testing pdf symbol <a href="resources\managing_references.pdf" data-size="2 MB">PDF bomb</a> here!</p>
