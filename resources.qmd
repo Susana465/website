@@ -4,8 +4,8 @@ title: "Resources"
 
 This is somewhere I hope to deposit resources that either I have made to help others, or resources that I find along the way that I wish to share with the world. It is still building up, so there is no real order to this section as of yet; just things I find useful!
 
-### These are some instructions I made for myself to link Zotero and my .bib files
+### Managing and syncing Zotero and .bib files in your project
 
-It's very handy to be able to have the bibliography file update automatically through Zotero instead of manually copying and pasting each reference I add to my project.
+These are some instructions I made for myself to link Zotero and my .bib files. The document below explains how to have the bibliography file update automatically through Zotero instead of manually copying and pasting each reference to the .bib file. The link below opens up a pdf window in your browser.
 
 - <a href="resources\managing_references.pdf">Managing references with Zotero (PDF) </a>
