@@ -6,6 +6,15 @@
 - Supervised by Melanie Stefan, David Sterratt and Nicola Romano.
 - Funded by Medical Research Scotland and CERN openlab.
 
+#### The Turing Way Collaborations (Ongoing)
+- Participated in two Book Dashes to collaboratively write a new chapter on [Data Hazards to the Turing Way Project](https://the-turing-way.netlify.app/ethical-research/data-hazards.html). 
+- Was part of the planning committee for the November 2023 Book Dash, faciliating and leading different sessions through the Book Dash week.
+- I am currently part of the Book Dash Working Group, where we look at and apply long term goals and administration of Book Dashes. 
+- Involved in planning and hosting Onboarding Calls for new community members to the TTW project.
+
+#### Leading Data Hazards workshops (Ongoing)
+- [Data Hazards workshops](https://github.com/Susana465/Data_Hazards_workshops). As part of my on-going work with the Data Hazards, I have organised and led multiple iterations of Data Hazard workshops.
+
 #### Alan Turing Enrichment Student (Oct 2022 - Jun 2023)
 - Awarded a 9 month placement at the Alan Turing Institute head quarters in London (£3000).
 - Attended AI Ethics and Governance courses
@@ -27,9 +36,8 @@
 #### Open Life Sciences - cohort 6 (Sep 2022 - Jan 2023)
 - During my time at [OLS](https://openlifesci.org/) I worked on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology, link [here](https://github.com/Susana465/OLS-6-Ethical-standards-and-reproducibility-of-computer-models-in-Neurobiology).
 
-#### More workshops, posters, group facilitations
-- [Bias and reproducibility in a computational neurobiology PhD's journey](https://github.com/Susana465/Bias-and-Reproducibility-Poster).
-  
-- [Climate Cafes](https://www.climatepsychologyalliance.org/~cpa/events/500-climate-cafe-jan) with Climate Psychology Alliance.
+#### Bias and reproducibility in a computational neurobiology PhD's journey (October 2022)
+- Presented and discussed a poster on [Bias and reproducibility in my PhD](https://github.com/Susana465/Bias-and-Reproducibility-Poster) as part of COMBINE conference 2022. 
 
-- [Data Hazards workshops](https://github.com/Susana465/Data_Hazards_workshops). As part of my on-going work with the Data Hazards, I have organised and led multiple iterations of Data Hazard workshops.
+#### Climate Cafes (2021 - 2023)
+- Co-led and facilitated multiple [Climate Cafes](https://www.climatepsychologyalliance.org/~cpa/events/500-climate-cafe-jan) with the Climate Psychology Alliance, from 2021 to 2023. 
