@@ -16,7 +16,7 @@ I think that in order to create meaningful research, it must challenge the imper
 
 Reproducibility and bias in science are huge driving forces of how I work. Making reproducible science means a bit more time is needed at the beginning, but in the long run money, time and resources are saved by not repeating the same research over and over again. Similarly, I see no point in creating amazingly reproducible research, if this is carrying sexist, racist, ableist, speciesist or any kind of oppressive bias that continues to disproportionately affect some individuals more than others.
 
-As an emotional human, I also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be.
+These are resons why I combine Ethics with Neuroscience and Computer Science in my work. To create computer models of molecular interactions that are reproducible, and that take into account real-world repercussions.
 
 ### I am currently...
 
