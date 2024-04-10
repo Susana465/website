@@ -17,6 +17,9 @@ Description: This paper presents the Data Hazards project, which contains a shar
 
 You can watch the [recorded live session](https://www.youtube.com/watch?v=3qb28JDFhGw), where me and other OLS-6 participants present the projects we worked on during our time at OLS.
 
+##### **Roman Garcia, S. (2023). Enrichment scheme reflections. Women in High Performance Computing.**
+
+I was invited by Women in High Performance Computing to write a guest blog post on my experience as an enrichmment student, which you can find [in their website here](https://womeninhpc.org/paths-to-hpc/enrichment-scheme-reflections-the-alan-turing-institute).
 
 ##### **Roman Garcia, S., Sterratt, D., & Stefan, M. I.(2022).  Thinking about Ethics in (Computer) Science, Edinburgh College of Medicine and Veterinary Medicine Good Practice Showcase. [https://doi.org/10.5281/zenodo.6973796](https://doi.org/10.5281/zenodo.6973796)**
 
