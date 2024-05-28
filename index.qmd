@@ -1,6 +1,23 @@
 ---
 title: "Susana Roman Garcia"
 ---
+I am an advocate for open, reproducible, and ethical science. My focus is on fostering interdisciplinary collaboration and discussions about ethics, reproducibility, and data hazards.
+
+```{=html}
+  <div class="content">
+
+    <div class="row">
+
+        <div id="title" style="margin-top: 1rem;">
+
+          <div style="font-size: 1em;"><a href="resources/SusanaRG_CV.pdf">CV</a> · <a
+              href="https://github.com/Susana465">GitHub</a> · <a
+              href="https://www.linkedin.com/in/susana-roman-garcia/">LinkedIn</a></div>
+
+        </div>
+      </div>
+
+```
 
 ## About me
 
