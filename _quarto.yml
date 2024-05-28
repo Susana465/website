@@ -15,9 +15,15 @@ website:
     pinned: true
     align: center
     tools: 
+      - icon: file-earmark-person
+        href: resources/SusanaRG_CV.pdf
+        text: "CV"
       - icon: github
         href: https://github.com/Susana465/website
         text: "GitHub repository"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/susana-roman-garcia/
+        text: "LinkedIn"
     
     style: "docked"
     search: true

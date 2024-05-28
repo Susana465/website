@@ -1,7 +1,7 @@
 ---
 title: "Susana Roman Garcia"
 ---
-I am an advocate for open, reproducible, and ethical science. My focus is on fostering interdisciplinary collaboration and discussions about ethics, reproducibility, and data hazards.
+I am an advocate for open, reproducible, and ethical science. I am interested in fostering interdisciplinary collaboration and discussions about ethics, reproducibility, and data hazards.
 
 ```{=html}
   <div class="content">
