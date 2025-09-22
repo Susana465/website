@@ -11,7 +11,7 @@ website:
     right: "This page is built with [Quarto](https://quarto.org/)."
 
   sidebar:
-    logo: "images/SRG-prof.jpeg"
+    logo: "images/profile.JPG"
     pinned: true
     align: center
     tools: 
