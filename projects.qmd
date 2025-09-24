@@ -5,6 +5,7 @@
 - At the University of Edinburgh.
 - Supervised by Melanie Stefan, David Sterratt and Nicola Romano.
 - Funded by Medical Research Scotland and CERN openlab.
+- You can find my thesis project repository [here](https://github.com/Susana465/camkii_thesis).
 
 #### The Turing Way Collaborations (Ongoing)
 - Participated in two Book Dashes to collaboratively write a new chapter on [Data Hazards to the Turing Way Project](https://the-turing-way.netlify.app/ethical-research/data-hazards.html). 
