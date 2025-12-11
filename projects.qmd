@@ -1,7 +1,7 @@
 
 # Projects
 
-#### PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D (Oct 2020 - Sep 2024) {- #sec-phd}
+#### PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D (Oct 2020 - Nov 2025) {- #sec-phd}
 - At the University of Edinburgh.
 - Supervised by Melanie Stefan, David Sterratt and Nicola Romano.
 - Funded by Medical Research Scotland and CERN openlab.
